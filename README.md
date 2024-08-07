@@ -1,1 +1,7 @@
-# prueba_telconet
+# credenciales:
+#ADMINISTRADOR
+  admin
+  admin
+#USUARIO
+  user
+  user
